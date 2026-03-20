@@ -1,17 +1,20 @@
-# 🌍 Análise Global do Índice de Felicidade
+## 🌍 Projeto 1 — Análise Global do Índice de Felicidade
 
-## 📊 Sobre o projeto
-Dashboard desenvolvido no Power BI analisando dados do World Happiness Report.
+📌 Análise de dados do World Happiness Report para entender fatores que influenciam o bem-estar entre países.
 
-## 🎯 Objetivo
-Identificar fatores que influenciam a felicidade entre países.
+🔧 Ferramentas:
+- Power BI
+- Excel
 
-## 📈 Análises realizadas
+📊 Principais análises:
 - Ranking de países mais felizes
 - Relação entre PIB per capita e felicidade
 - Mapa global da felicidade
+- 
+## 🎯 Problema de negócio
+Entender quais fatores influenciam a felicidade global para apoiar análises econômicas.
 
-## 💡 Insight
+💡 Insight:
 Países com maior desenvolvimento econômico apresentam maior nível de felicidade.
 ## 📸 Dashboard
 
