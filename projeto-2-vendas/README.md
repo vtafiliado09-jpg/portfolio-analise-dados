@@ -13,3 +13,6 @@ Analisar desempenho de vendas por região, categoria e tempo.
 
 ## 💡 Insight
 A categoria Technology apresenta maior volume de vendas.
+## 📸 Dashboard
+
+![Dashboard](https://1drv.ms/i/c/603cf94423d93293/IQB7JYdenE52Q4LIczDmiN07ASBvueJvleAW-0PeTVCPWq8?e=vBXjN6)
